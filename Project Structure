@@ -1,0 +1,13 @@
+project/
+│
+├── templates/
+│   ├── new_index.html
+│   ├── login.html
+│   └── register.html
+│
+├── .env1
+├── .gitignore
+├── LICENSE
+├── README.md
+├── requirements.txt
+└── new_app.py
